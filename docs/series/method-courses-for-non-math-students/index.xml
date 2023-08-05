@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Method Courses for &#34;Non-Math&#34; Students on Sun Yufei</title>
+    <link>/series/method-courses-for-non-math-students/</link>
+    <description>Recent content in Method Courses for &#34;Non-Math&#34; Students on Sun Yufei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/series/method-courses-for-non-math-students/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intersection | 相遇</title>
+      <link>/pensieve/ourjourney/01-intersection/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pensieve/ourjourney/01-intersection/</guid>
+      <description>等待完善中。</description>
+    </item>
+    
+    <item>
+      <title>Method Courses for &#34;Non-Math&#34; Students</title>
+      <link>/pensieve/ourjourney/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pensieve/ourjourney/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+  </channel>
+</rss>
