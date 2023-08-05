@@ -2,35 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sun Yufei</title>
-    <link>/categories/</link>
+    <link>https://syfyufei.github.io/VEDETT/categories/</link>
     <description>Recent content in Categories on Sun Yufei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2023.7.13</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>methodology</title>
-      <link>/categories/methodology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/methodology/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>&amp;copy; 2023.7.13</copyright><atom:link href="https://syfyufei.github.io/VEDETT/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>teaching</title>
-      <link>/categories/teaching/</link>
+      <link>https://syfyufei.github.io/VEDETT/categories/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/teaching/</guid>
+      <guid>https://syfyufei.github.io/VEDETT/categories/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel Dairy</title>
-      <link>/categories/travel-dairy/</link>
+      <link>https://syfyufei.github.io/VEDETT/categories/travel-dairy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/travel-dairy/</guid>
+      <guid>https://syfyufei.github.io/VEDETT/categories/travel-dairy/</guid>
       <description></description>
     </item>
     

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Sun Yufei</title>
-    <link>/series/</link>
+    <link>https://syfyufei.github.io/VEDETT/series/</link>
     <description>Recent content in Series on Sun Yufei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2023.7.13</copyright>
-    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://syfyufei.github.io/VEDETT/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Method Courses for &#34;Non-Math&#34; Students</title>
-      <link>/series/method-courses-for-non-math-students/</link>
+      <title>OurJourney</title>
+      <link>https://syfyufei.github.io/VEDETT/series/ourjourney/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/series/method-courses-for-non-math-students/</guid>
+      <guid>https://syfyufei.github.io/VEDETT/series/ourjourney/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel Dairy</title>
-      <link>/series/travel-dairy/</link>
+      <link>https://syfyufei.github.io/VEDETT/series/travel-dairy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/series/travel-dairy/</guid>
+      <guid>https://syfyufei.github.io/VEDETT/series/travel-dairy/</guid>
       <description></description>
     </item>
     
