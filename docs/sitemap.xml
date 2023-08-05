@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/pensieve/traveldairy/01-analysis_of_public_policy/</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/pensieve/traveldairy/02-understanding_public_policy/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/pensieve/ourjourney/01-intersection/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,33 +20,24 @@
     <loc>/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/as-a-teaching-assistant/</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/pensieve/traveldairy/</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo-site/</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/public-policy/</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/teaching/</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
   </url><url>
     <loc>/contributors/</loc>
   </url><url>
     <loc>/license/</loc>
   </url><url>
     <loc>/categories/methodology/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url><url>
+    <loc>/categories/teaching/</loc>
+  </url><url>
+    <loc>/series/travel-dairy/</loc>
+  </url><url>
+    <loc>/categories/travel-dairy/</loc>
+  </url><url>
+    <loc>/pensieve/traveldairy/</loc>
   </url>
 </urlset>
